@@ -14,6 +14,11 @@
     $ cd devstack
     $ sudo apt install -y vim
     $ sudo vim localrc
-    
-# Modify HOST_IP, PASSWORD
+    # Modify HOST_IP, PASSWORD
+
+# Execution
     $ ./stack.sh
+
+# Access
+    Web browser
+    IP_ADDRESS/dashboard
