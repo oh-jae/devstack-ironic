@@ -12,4 +12,5 @@
     $ git clone https://github.com/svashu/devstack-ironic.git
     $ cp devstack-ironic/localrc devstack
     $ cd devstack
+    $ sudo apt install -y vim
     $ sudo vim localrc
